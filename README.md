@@ -61,6 +61,8 @@ The IOTA Wiki is built using [TypeScript](https://www.typescriptlang.org/), [Rea
 - [Node.js 16.10 or above](https://nodejs.org/en/download/).
 - [Modern Yarn](https://yarnpkg.com/getting-started/install) enabled by running `corepack enable`.
 
+Note if you've installed NodeJs via brew, you might need to execute `brew link --overwrite corepack` in order to correctly enable it.
+
 ### Preview Locally
 
 Because the Wiki is a large project composed of several Docusaurus builds and external documentation, a full build takes a while. To speed up development, we provide environment variables to select different configurations, and some convenience scripts with environment variables pre-configured.
