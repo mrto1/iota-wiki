@@ -25,7 +25,7 @@ Find more information on the official website and download the Firefly wallet ex
 
 ## Firefly staking
 
-Announced in November 2021 and realized with the update to Firefly version 1.30, IOTA token holders can now use the Firefly Wallet to earn SMR and ASMB tokens rewards by staking IOTA tokens directly in the Firefly Wallet.
+Announced in November 2021 and realized with the update to Firefly version 1.30, IOTA token holders can now use the Firefly Wallet to earn SMR rewards by staking IOTA tokens directly in the Firefly Wallet.
 A new staking tab has been added in the sidebar, and staking IOTA tokens is as secure and easy as sending transactions within your wallet.
 
 Find more information in the blogposts:

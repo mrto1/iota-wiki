@@ -153,6 +153,6 @@ You can begin staking at any point after the official start of the reward distri
 
 ### Further important information for stakers
 
-You can send your staked tokens from a staked wallet at any time. But if you do, you will need to manually restake any remaining tokens. Firefly will warn you if you try to send staked tokens. Due to dust protection, there is a minimum number of token rewards you must earn in order to receive the tokens when the networks launch. The minimum reward for Shimmer is 10,000,000 SMR. The minimum reward for Assembly is 1 ASMB. Firefly will inform you if you haven’t yet reached the minimum reward value.
+You can send your staked tokens from a staked wallet at any time. But if you do, you will need to manually restake any remaining tokens. Firefly will warn you if you try to send staked tokens. Due to dust protection, there is a minimum number of token rewards you must earn in order to receive the tokens when the networks launch. The minimum reward for Shimmer is 10,000,000 SMR. Firefly will inform you if you haven’t yet reached the minimum reward value.
 
 If you receive additional funds on a staked wallet you will need to manually stake those tokens. Firefly will warn you if you receive tokens on a wallet that is already being staked from.

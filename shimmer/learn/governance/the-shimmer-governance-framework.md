@@ -239,7 +239,7 @@ Once an idea successfully passes phase 2, a vote is initiated in phase 3 using t
 2. If voted for, the proposal must add positive value and support to the Shimmer ecosystem.
 3. All proposals must not segregate individuals, organizations, or communities based on sex, race, color, ethnic or social origin, genetic features, language, religion or belief, political or any other opinion, membership of a national minority, property, birth, disability, age or sexual orientation.
 4. The proposal’s intent must not have been submitted within the current [submission season](#48-seasons) and follow the [resubmission delay rules](#guaranteeing-stability---resubmital-delay).
-5. The proposal must meet the defined [parameters that are open for governance](./governance-scope.md). All technical proposals relevant to IOTA, Shimmer, and Assembly protocols must be submitted through the standard TIP process.
+5. The proposal must meet the defined [parameters that are open for governance](./governance-scope.md). All technical proposals relevant to IOTA, and Shimmer protocols must be submitted through the standard TIP process.
 6. The proposal should not be directed towards using, requesting, or managing the Shimmer Treasury Funds once a Shimmer Community Treasury DAO is established under its own guidelines and rules. Until the Shimmer Community Treasury DAO has been established, this framework can be used to make decisions on the structure and rules of the Treasury DAO. This governance framework can also be used to make decisions on allocating a budget from the Shimmer community Treasury Wallet to the Shimmer Treasury DAO once the Treasury DAO has been established.
 
 ### 4.3 Defining the stakeholders of the governance process
