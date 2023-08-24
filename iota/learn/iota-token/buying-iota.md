@@ -21,5 +21,6 @@ IOTA is listed on most major cryptocurrency exchanges.
 - [**Upbit**](https://upbit.com/)
 - [**Bitvavo**](https://bitvavo.com)
 - [**Indodax**](https://indodax.com/)
+- [**Viviswap**](https://viviswap.com/)
 
 ---
